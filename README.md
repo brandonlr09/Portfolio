@@ -1,6 +1,6 @@
-# brandonlr.com by Brandon Lessard-Rook
+# brandonlr.vercel.app by Brandon Lessard-Rook
 
-This repository is for my personal [portfolio website](https://www.brandonlr.com/).
+This repository is for my personal [portfolio website](https://brandonlr.vercel.app/).
 
 The site was made from the [Tailwind-Nextjs-Starter-Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) by [Tim Lrx](https://github.com/timlrx).
 
